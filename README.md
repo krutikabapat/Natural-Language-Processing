@@ -8,7 +8,7 @@ Using sklearn library  cross_validation, Naive_Bayes classifier, GaussianNB have
 # Evaluation Matrix:-  
 
 1. Confusion Matrix-  
-The problem also contains confusion matrix which helps to calculate the accuracy of the above NLP problem.
+The problem contains confusion matrix which helps to calculate the accuracy of the above NLP problem.
 
 # Dataset:-  
 Use the attached CSV file as a dataset. As part of data_processing the .csv file has been converted to .tsv file. 
