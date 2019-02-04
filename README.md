@@ -5,8 +5,10 @@ After pre-processing the dataset and applying Naive_Bayes classifier we get the 
 
 Using sklearn library  cross_validation, Naive_Bayes classifier, GaussianNB have been implemented for this particular NLP problem.
 
-Confusion Matrix-
+# Evaluation Matrix:-  
+
+1. Confusion Matrix-  
 The problem also contains confusion matrix which helps to calculate the accuracy of the above NLP problem.
 
-
+# Dataset:-  
 Use the attached CSV file as a dataset. As part of data_processing the .csv file has been converted to .tsv file. 
